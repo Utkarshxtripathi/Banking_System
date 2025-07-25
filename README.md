@@ -182,5 +182,4 @@ EXEC GetLoanStatusReport;
 **Utkarsh Tripathi**  
 📧 utkarsh6918@email.com  
 🌐 [GitHub Profile](https://github.com/Utkarshxtripathi)  
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/YOUR_USERNAME/)
-   [Linkedin Profile](https://www.linkedin.com/in/utkarsh-tripathi-74bb03219/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME/)[Linkedin Profile](https://www.linkedin.com/in/utkarsh-tripathi-74bb03219/)

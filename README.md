@@ -104,7 +104,7 @@ git clone https://github.com/Utkarshxtripathi/Banking_System.git
 4️⃣ **Test the database**  
 
 ```sql
-EXEC CreateCustomer 'John Doe', 'Mumbai', '9876543210', 'john.doe@email.com';
+EXEC CreateCustomer 'Pravriti', 'Mumbai', '9876543210', 'pravriti@email.com';
 EXEC OpenAccount 1, 1, 'Savings', 10000;
 EXEC DepositMoney 1, 2000;
 EXEC ViewTransactionHistory 1;
